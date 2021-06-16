@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tfe_pn_app_name">Câmera Teste</string>
+    <string name="tfe_pn_request_permission">É preciso liberar a câmera para o aplicativo.</string>
+    <string name="tfe_pn_camera_error">O dispositivo atual não suporta a versão 2 da API de câmera necessá ria para o correto funcionamento do aplicativo.</string>
+</resources>
